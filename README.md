@@ -1,8 +1,8 @@
-# Pavlo Radiuk — explainable AI that experts can audit
+# Pavlo Radiuk
 
 **Associate Professor · Department of Computer Science · Khmelnytskyi National University, Ukraine** 🇺🇦
 
-[![Website](https://img.shields.io/badge/Website-radiukpavlo.github.io-B4643C?style=flat-square)](https://radiukpavlo.github.io) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=qmxDbPoAAAAJ) [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3609--112X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3609-112X) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavlo%20Radiuk-0A66C2?style=flat-square)](https://www.linkedin.com/in/pavlo-radiuk-487029123)
+[![Website](https://img.shields.io/badge/Website-radiukpavlo.github.io-B4643C?style=flat-square)](https://radiukpavlo.github.io) [![CV](https://img.shields.io/badge/CV-PDF-B4643C?style=flat-square)](https://radiukpavlo.github.io/cv/Pavlo-Radiuk-CV.pdf) [![Department profile](https://img.shields.io/badge/KhNU-department%20profile-1C2638?style=flat-square)](https://kn.khmnu.edu.ua/radyuk-pavlo-myhajlovych/) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=qmxDbPoAAAAJ) [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3609--112X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3609-112X) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavlo%20Radiuk-0A66C2?style=flat-square)](https://www.linkedin.com/in/pavlo-radiuk-487029123)
 
 I build explanation methods that domain experts can check. The core idea is the **transition matrix**: an explicit mapping from the features a deep model has learned to the features a clinician or engineer already reasons with, so an explanation becomes a change of basis rather than a heatmap. I extend it with Lie-group equivariance and rough-set rules, and apply it in medical imaging and signals, UAV inspection of energy infrastructure, and smart mobility.
 
@@ -31,7 +31,7 @@ Full list with citation badges: [radiukpavlo.github.io/publications](https://rad
 
 ## Open to collaboration
 
-I welcome Horizon Europe, MSCA and EuroHPC consortia looking for an **XAI task or work-package lead**, a **medical AI** partner, **UAV inspection of energy assets**, or a **Ukrainian pilot site** in Khmelnytskyi — I am a researcher in the Horizon Europe project U_CAN. The [partner kit](https://radiukpavlo.github.io/partner-kit/) has a capability statement, bios and our institution's PIC.
+I welcome Horizon Europe, MSCA and EuroHPC consortia looking for an **XAI task or work-package lead**, a **medical AI** partner, **UAV inspection of energy assets**, or a **Ukrainian pilot site** in Khmelnytskyi — I am a researcher in the Horizon Europe project U_CAN. The [partner kit](https://radiukpavlo.github.io/partner-kit/) has a capability statement, bios and our institution's PIC, and there is a [one-page CV](https://radiukpavlo.github.io/cv/Pavlo-Radiuk-CV-one-page.pdf) for proposal annexes.
 
 Service: 450+ peer reviews · programme committees of DEXA, WISE and MobiWis · organising committee of the ExplAI workshop.
 
