@@ -10,16 +10,22 @@ I build explanation methods that domain experts can check. The core idea is the 
 
 | | Repository | What it implements |
 |---|---|---|
-| 🫀 Medical XAI | [transition-matrix-cardia-x](https://github.com/radiukpavlo/transition-matrix-cardia-x) | CARDIA-X — auditable post hoc ECG explainability (*AI*, 2026) |
-| | [transition-matrix-cinetra](https://github.com/radiukpavlo/transition-matrix-cinetra) | CINETRA — a registered, once-only audit of semantic concept transfer in cine cardiac MRI |
-| | [transition-matrix-dss](https://github.com/radiukpavlo/transition-matrix-dss) | SEMTRA — global semantic transition and rough-set rules (*MAKE*, 2026) |
+| 🫀 Medical XAI | [transition-matrix-cardia-x](https://github.com/radiukpavlo/transition-matrix-cardia-x) | CARDIA-X – auditable post hoc ECG explainability (*AI*, 2026) |
+| | [transition-matrix-cinetra](https://github.com/radiukpavlo/transition-matrix-cinetra) | CINETRA – a registered, once-only audit of semantic concept transfer in cine cardiac MRI |
+| | [transition-matrix-dss](https://github.com/radiukpavlo/transition-matrix-dss) | SEMTRA – global semantic transition and rough-set rules (*MAKE*, 2026) |
 | 🧠 Core XAI | [transition-matrix-etm-xai](https://github.com/radiukpavlo/transition-matrix-etm-xai) | Equivariant transition matrices via Lie-group linearisation (*MAKE*, 2026) |
 | | [transition-matrix-dl](https://github.com/radiukpavlo/transition-matrix-dl) | Visual analytics with transition matrices (*Mathematics*, 2024) |
 | 🛩️ UAV & energy | [my-study-slides](https://github.com/radiukpavlo/my-study-slides) | YOLO ensemble for UAV-based multispectral defect detection in wind turbines (IEEE IDAACS 2025, slides) |
 
 ## Teaching
 
-[Intelligent Data Analysis](https://github.com/radiukpavlo/intelligent-data-analysis) — open course materials in Jupyter for the bachelor's programme in Computer Science (in Ukrainian).
+Open course materials on GitHub:
+
+- [Intelligent Data Analysis](https://github.com/radiukpavlo/intelligent-data-analysis) – Jupyter curriculum with lectures, laboratory classes and course projects; bachelor's, in Ukrainian
+- [Conducting Experiments and Processing the Results of Scientific Research](https://github.com/radiukpavlo/conducting-experiments) – PyTorch notebooks, assignments and lecture notes; master's, in English
+- [Statistical Data Processing](https://github.com/radiukpavlo/my-stats-data-processing) – lecture notes, assignments and datasets; bachelor's, in Ukrainian
+- [Operations Research and Fundamentals of Decision Theory](https://github.com/radiukpavlo/my-operations-research) – tutorials; bachelor's, in Ukrainian
+- [Python Programming](https://github.com/radiukpavlo/python-programming) – an introductory course in step-by-step lessons, from variables and data structures to functions and modules
 
 ## Latest papers
 
@@ -31,7 +37,7 @@ Full list with citation badges: [radiukpavlo.github.io/publications](https://rad
 
 ## Open to collaboration
 
-I welcome Horizon Europe, MSCA and EuroHPC consortia looking for an **XAI task or work-package lead**, a **medical AI** partner, **UAV inspection of energy assets**, or a **Ukrainian pilot site** in Khmelnytskyi — I am a researcher in the Horizon Europe project U_CAN. The [partner kit](https://radiukpavlo.github.io/partner-kit/) has a capability statement, bios and our institution's PIC, and there is a [one-page CV](https://radiukpavlo.github.io/cv/Pavlo-Radiuk-CV-one-page.pdf) for proposal annexes.
+I welcome Horizon Europe, MSCA and EuroHPC consortia looking for an **XAI task or work-package lead**, a **medical AI** partner, **UAV inspection of energy assets**, or a **Ukrainian pilot site** in Khmelnytskyi – I am a researcher in the Horizon Europe project U_CAN. The [partner kit](https://radiukpavlo.github.io/partner-kit/) has a capability statement, bios and our institution's PIC, and there is a [one-page CV](https://radiukpavlo.github.io/cv/Pavlo-Radiuk-CV-one-page.pdf) for proposal annexes.
 
 Service: 450+ peer reviews · programme committees of DEXA, WISE and MobiWis · organising committee of the ExplAI workshop.
 
