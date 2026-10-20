@@ -39,6 +39,6 @@ Full list with citation badges: [radiukpavlo.github.io/publications](https://rad
 
 I welcome Horizon Europe, MSCA and EuroHPC consortia looking for an **XAI task or work-package lead**, a **medical AI** partner, **UAV inspection of energy assets**, or a **Ukrainian pilot site** in Khmelnytskyi – I am a researcher in the Horizon Europe project U_CAN. The [partner kit](https://radiukpavlo.github.io/partner-kit/) has a capability statement, bios and our institution's PIC, and there is a [one-page CV](https://radiukpavlo.github.io/cv/Pavlo-Radiuk-CV-one-page.pdf) for proposal annexes.
 
-Service: 450+ peer reviews · programme committees of DEXA, WISE and MobiWis · organising committee of the ExplAI workshop.
+Service: 450+ peer reviews (Web of Science) · programme committees of DEXA, WISE and MobiWis · organising committee of the ExplAI workshop.
 
 📫 radiukp@khmnu.edu.ua
